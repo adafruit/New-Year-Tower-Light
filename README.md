@@ -1,4 +1,12 @@
-# New-Year-Tower-Light
+## This repository has been archived
+
+The contents were mirrored to https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/master/NY_Tower_Light
+
+All code MIT License, please keep attribution to Adafruit Industries
+
+Please consider buying your parts at [Adafruit.com](https://www.adafruit.com) to support open source code.
+
+## New-Year-Tower-Light
 IoT Tower alert we did on the last night of 2015!!
 
 We make a tower alert that responds to github events:
